@@ -4,8 +4,11 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         //Brayan Yair Mendez Rodriguez.
+        //20-08-2024
+        //Ejercicio Alcancia
+
         Scanner teclado = new Scanner(System.in);
-        int total, veinte=0, cincuenta=0, cien=0, doscientos=0, quinientos=0;git status
+        int total, veinte=0, cincuenta=0, cien=0, doscientos=0, quinientos=0;
         int seleccion =0;
         while (seleccion<=4){
             System.out.println();
