@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        //Brayan Yair Mendez Rodriguez
+        //Brayan Yair Mendez Rodriguez.
         Scanner teclado = new Scanner(System.in);
         int total, veinte=0, cincuenta=0, cien=0, doscientos=0, quinientos=0;git status
         int seleccion =0;
